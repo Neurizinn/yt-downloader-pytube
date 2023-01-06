@@ -30,4 +30,5 @@ def DowloadVideo(link,format):
     
     return main()
 
-main()
+if __name__ == '__main__':
+    main()
